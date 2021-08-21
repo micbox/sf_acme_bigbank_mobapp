@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	email = msukiasyan@mts.am
+	name = Mikayel Sukiasyan
+[alias]
+	history = log --graph
+[remote "origin"]
+	url = https://github.com/micbox/sf_acme_bigbank_mobapp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
